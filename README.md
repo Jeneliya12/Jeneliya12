@@ -4,7 +4,7 @@
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Jeneliya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-I'm a Computer Science Enthusiast  👨‍💻, A graduate student from BSc IT from nepal 👨‍🎓
+I'm a Computer Science Enthusiast  👨‍💻, A graduate student in BSc IT from nepal 👨‍🎓
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning about React and working in Laravel and PHP
