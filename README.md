@@ -56,9 +56,19 @@
 
 ### **📢 Connect With Me**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jeneliya-gurung)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=github&logoColor=white)](https://jeneliyagurung.com)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jeneliyagurung6@gmail.com)  
+
+
+---
+
+### 🤝 **Let's Connect & Collaborate!**  
+🚀 Open to **collaborations on exciting projects**, brainstorming **new ideas**, and **networking with like-minded developers**.  
+💡 Feel free to **say hello**, drop a message, or share thoughts on **software development, open-source, or tech trends**.  
+✨ Let’s **build, innovate, and grow together!** 
 
 ---
 
 ### 🔥 **Let's build something amazing together!** 🚀  
 ⭐ **Star my repositories if you find them useful!**  
+
